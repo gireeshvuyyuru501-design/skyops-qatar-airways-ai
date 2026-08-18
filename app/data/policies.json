@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Baggage Allowance",
+    "content": "Demo policy: baggage allowance depends on cabin and fare family. Passengers should verify the allowance shown on their ticket before travel."
+  },
+  {
+    "title": "Disrupted Flights",
+    "content": "Demo policy: when a flight is significantly delayed or cancelled, the assistant may suggest alternative itineraries and escalation to an airline agent. Final rebooking must be confirmed by a human."
+  },
+  {
+    "title": "Transit at Doha",
+    "content": "Demo guidance: passengers transiting through Doha should verify connection time, gate information, and entry requirements when leaving the transit area."
+  },
+  {
+    "title": "Special Assistance",
+    "content": "Demo guidance: accessibility, medical, and special-meal requests should be confirmed with the airline before departure."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "flight_number": "QR701",
+    "origin": "DOH",
+    "destination": "JFK",
+    "departure": "08:15",
+    "arrival": "15:20",
+    "status": "On Time",
+    "cabin": "Economy / Business"
+  },
+  {
+    "flight_number": "QR739",
+    "origin": "DOH",
+    "destination": "LAX",
+    "departure": "07:45",
+    "arrival": "14:10",
+    "status": "Delayed 45 min",
+    "cabin": "Economy / Business"
+  },
+  {
+    "flight_number": "QR004",
+    "origin": "LHR",
+    "destination": "DOH",
+    "departure": "14:15",
+    "arrival": "23:55",
+    "status": "On Time",
+    "cabin": "Economy / Business / First"
+  },
+  {
+    "flight_number": "QR578",
+    "origin": "DOH",
+    "destination": "DEL",
+    "departure": "19:40",
+    "arrival": "02:00",
+    "status": "On Time",
+    "cabin": "Economy / Business"
+  }
+]
